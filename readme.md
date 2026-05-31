@@ -2,7 +2,7 @@ Smart Cart Optimizer
 
 A budget optimization tool that suggests grocery items to add to your cart based on your cash in hand — minimizing leftover change using dynamic programming and personalized ML recommendations.
 
-### Demooo
+### Demo
 ![Main](screenshot_1.PNG)
 ![Item selection](screenshot_2.PNG)
 ![Category](screenshot_3.PNG)
