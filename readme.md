@@ -10,7 +10,7 @@ A budget optimization tool that suggests grocery items to add to your cart based
 ###  Problem
 You have ₹500 cash but your cart is only ₹443. Instead of paying with leftover change, the app finds the best items to add that bring your total as close to ₹500 as possible.
 
-### How It Works
+#### How It Works
 1. Enter your cash and current cart total
 2. The app calculates the budget gap
 3. **0/1 Knapsack DP** finds the optimal item combination within the gap
